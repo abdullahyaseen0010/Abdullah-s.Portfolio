@@ -13,7 +13,7 @@ A personal portfolio website built with **Next.js 15** (App Router, Turbopack), 
 - **Contact** – contact form with info cards
 - **Footer** – socials, links, and copyright
 
-> ⚠️ **Note:** The projects currently shown in the Projects section (e.g. "AI Task Manager," "Real-Time Chat," "E-Commerce Analytics," "Blockchain Wallet," "Weather Forecast," "Code Snippets") are **placeholder content**. Their GitHub and demo links point to generic URLs (`github.com`, `demo.com`) and are not real, deployed projects — they exist to demonstrate the layout of the projects grid and will be replaced with actual project data.
+> ⚠️ **Note:** The projects currently shown in the Projects section (e.g. "AI Task Manager," "Real-Time Chat," "E-Commerce Analytics," "Blockchain Wallet," "Weather Forecast," "Code Snippets") are **placeholder content**. Their GitHub and demo links point to generic URLs (`github.com`, `demo.com`) and are not real, deployed projects they exist to demonstrate the layout of the projects grid and will be replaced with actual project data.
 
 ## Tech Stack
 
