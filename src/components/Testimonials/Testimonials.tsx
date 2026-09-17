@@ -139,7 +139,7 @@ const TestimonialMarquee = ({ speed = 30, pauseOnHover = true }: TestimonialMarq
                 className="text-sm leading-relaxed mb-4 flex-grow"
                 style={{ color: 'var(--color-primary-content)' }}
               >
-                "{testimonial.text}"
+                &ldquo;{testimonial.text}&rdquo;
               </p>
 
               {/* Author Info */}
@@ -206,7 +206,7 @@ const TestimonialMarquee = ({ speed = 30, pauseOnHover = true }: TestimonialMarq
                 className="text-sm leading-relaxed mb-4 flex-grow"
                 style={{ color: 'var(--color-primary-content)' }}
               >
-                "{testimonial.text}"
+                &ldquo;{testimonial.text}&rdquo;
               </p>
 
               {/* Author Info */}
